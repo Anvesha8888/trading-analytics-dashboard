@@ -18,7 +18,7 @@ This project automates trading data tracking and visualizes performance using a 
 Make.com → Google Sheets → Looker Studio → Gmail Alerts
 
 ## 📸 Screenshots
-(Add your images here)
+https://github.com/Anvesha8888/trading-analytics-dashboard/blob/main/Screenshot%202026-03-30%20182555.png
 
 ## 💡 Learning
 - Data cleaning is critical
