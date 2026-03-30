@@ -1,0 +1,21 @@
+Column 1,Email Address,"Product Name
+",Sales (Number),Cost (Number),Discount %(Number %),Profit,profit_percent,Status
+3/26/2026 11:26:58,anvesha.mca2002@gmail.com,smartphone,365,79000,10%,-78635,-2154383.562%,Profit
+3/26/2026 12:20:04,anvesha.mca2002@gmail.com,AC,786,58000,20%,-57214,-727913.486%,Warning
+3/26/2026 13:48:42,aanveshaashuklaa@gmail.com,tcs,3000,5000,10%,-2000,-6666.666667%,Low Profit
+3/26/2026 17:51:30,anvesha.mca2002@gmail.com,mouse,5000,1500,2%,3500,7000%,Profit
+3/27/2026 9:21:35,imanvesha.shukla@gmail.com,keyboard,70000,1500,5%,68500,9785.714286%,Warning
+3/27/2026 9:26:38,anvesha.mca2002@gmail.com,tfh,300,1000,0,-700,-23333.33333%,Low Profit
+3/27/2026 11:10:15,anvesha.mca2002@gmail.com,Smartphone,50000,70000,15%,-20000,-4000%,Warning
+3/27/2026 13:24:54,imanvesha.shukla@gmail.com,SmartWatch,90000,1500,0%,88500,9833.333333%,Warning
+3/27/2026 16:34:41,imanvesha.shukla@gmail.com,TV,30000,70000,20,-40000,-13333.33333%,Profit
+3/27/2026 18:10:36,imanvesha.shukla@gmail.com,earphones,4500000,12000,5%,4488000,9973.333333%,Profit
+3/27/2026 19:35:44,imanvesha.shukla@gmail.com,Laptop,12000,50000,5%,-38000,-31666.66667%,Warning
+3/29/2026 19:37:01,imanvesha.shukla@gmail.com,Electric scooty,5000,125000,25%,-120000,-240000%,
+3/29/2026 19:42:18,imanvesha.shukla@gmail.com,trf,50000,30087,10%,19913,3982.6%,
+3/29/2026 19:58:16,imanvesha.shukla@gmail.com,Charger,300,150,50%,150,50,
+3/29/2026 20:03:27,imanvesha.shukla@gmail.com,tyu,900,1100,20%,-200,-22.22222222,
+3/29/2026 20:29:22,imanvesha.shukla@gmail.com,try,300,200,50%,100,33.33333333,
+3/27/2026 18:10:36,imanvesha.shukla@gmail.com,earphones,4500000,12000,5%,4488000,9973.333333%,Profit
+3/29/2026 19:58:16,imanvesha.shukla@gmail.com,Charger,300,150,50%,150,5000%,Profit
+3/29/2026 20:29:22,imanvesha.shukla@gmail.com,try,300,200,50%,100,3333.333333%,Profit
