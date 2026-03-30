@@ -21,6 +21,7 @@ Make.com → Google Sheets → Looker Studio → Gmail Alerts
 https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-30%20182555.png
 https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-30%20182632.png
 https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-29%20204336.png
+https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/beforeandafter.png
 
 ## 💡 Learning
 - Data cleaning is critical
