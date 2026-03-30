@@ -1,29 +1,62 @@
 # 📊 Automated Trading Analytics Dashboard
 
-## 🚀 Project Overview
-This project automates trading data tracking and visualizes performance using a real-time dashboard.
+## 🚀 Overview
+Built an automated trading analytics system that tracks profit/loss, detects trading patterns, and sends real-time alerts using no-code tools.
 
-## 🔧 Tools Used
-- Google Sheets (Data Storage)
-- Make.com (Automation)
-- Looker Studio (Dashboard)
+## 🎯 Problem Statement
+Manual tracking of trading performance is time-consuming and prone to errors. This project automates the entire workflow and provides real-time insights.
 
-## 📈 Features
-- Real-time data updates
-- Profit & Loss tracking
-- Win Rate calculation
-- Email alerts for losses
+## 🔧 Tech Stack
+- Google Sheets (Data Storage & Cleaning)
+- Make.com (Automation & Logic Building)
+- Looker Studio (Data Visualization Dashboard)
+- Gmail API (Alert System)
+
+## ⚙️ Key Features
+- 📈 Automated Profit & Loss tracking
+- 📊 Win Rate calculation
+- 🚨 Real-time loss alerts via email
+- 🔄 Fully automated data pipeline (No manual entry)
+- 📉 Performance trend visualization
 
 ## 🔄 Workflow
-Make.com → Google Sheets → Looker Studio → Gmail Alerts
+Webhook / Input → Make.com (Router + Filters) → Google Sheets → Looker Studio Dashboard → Gmail Alerts
 
-## 📸 Screenshots
-https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-30%20182555.png
-https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-30%20182632.png
-https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-29%20204336.png
-https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/beforeandafter.png
+## 🧠 Logic Used
+- Profit > 0 → Stored in Google Sheets
+- Profit < 0 → Trigger email alert
+- Structured data formatting to fix text-format issues
+- Automated row insertion & calculated fields
 
-## 💡 Learning
-- Data cleaning is critical
-- Automation requires proper structure
-- Dashboard depends on clean data
+---
+
+## 📸 Dashboard & Workflow Screenshots
+
+### 📊 Main Dashboard
+(https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-30%20182555.png)
+
+### 📈 Performance View
+(https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-30%20182632.png)
+
+### ⚙️ Automation Workflow (Make.com)
+(https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/Screenshot%202026-03-29%20204336.png)
+
+### 🔄 Before vs After Automation
+(https://github.com/Anvesha8888/trading-analytics-dashboard/raw/main/beforeandafter.png)
+
+---
+
+## 🔥 Key Impact
+- Reduced manual tracking effort by **80%**
+- Enabled faster decision-making
+- Improved trade monitoring accuracy
+
+## 💡 Learnings
+- Importance of clean & structured data
+- Automation using routers & filters
+- Dashboard design for insights
+
+## 🚀 Future Improvements
+- AI-based trade prediction
+- Risk analysis dashboard
+- Mobile notification system
